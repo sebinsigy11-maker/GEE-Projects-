@@ -1,8 +1,7 @@
+//Define a Location Using Coordinates
 var roi :Polygon,4 vertices
 // Study Area
-
 Map.centerObject(roi, 7);
-
 // Time Period
 var start = '2023-04-01';
 var end = '2023-10-01';
